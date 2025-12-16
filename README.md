@@ -1,6 +1,6 @@
 | 1. Girdi | 2. Çıktı |
 | :---: | :---: |
-| ![Açıklama 1](futbol_tespit_projesi/video.png) | ![Açıklama 2](futbol_tespit_projesi/cikti.png) |
+| ![Açıklama 1](/futbol_tespit_projesi/video.PNG) | ![Açıklama 2](/futbol_tespit_projesi/cikti.PNG) |
 
 # 📚 Supervision Kütüphanesi Rehberi
 
